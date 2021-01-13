@@ -17,6 +17,7 @@ Helpful Resources for COGS 108 Students
 - [GitHub Guide](https://guides.github.com/activities/hello-world/)
 - [GitHub Desktop App Tutorial](https://github.com/jlord/git-it-electron)
 - [Git Command Line Resource](https://rogerdudler.github.io/git-guide/)
+- [Installing and using `git` - command line](https://www.youtube.com/watch?v=ng4X6qF8XVY), by TA Ganesh (youtube, 22min tutorial)
 
 
 #### More Data Science in Python Resources:
