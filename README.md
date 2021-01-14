@@ -17,7 +17,9 @@ Helpful Resources for COGS 108 Students
 - [GitHub Guide](https://guides.github.com/activities/hello-world/)
 - [GitHub Desktop App Tutorial](https://github.com/jlord/git-it-electron)
 - [Git Command Line Resource](https://rogerdudler.github.io/git-guide/)
-- [Installing and using `git` - command line](https://www.youtube.com/watch?v=ng4X6qF8XVY), by TA Ganesh (youtube, 22min tutorial)
+-  Using `git` from the command line
+	- [Installing and using `git` (Part 1)](https://www.youtube.com/watch?v=ng4X6qF8XVY), by TA Ganesh (youtube, 22min tutorial)
+	- [merge conflicts and branching (Part 2)](https://youtu.be/Nk1gtrbTZ2Y), by IA Shubham Kulkarni (youtube, 8min tutorial)
 - [Using `git` with GitHub Desktop](https://youtu.be/zQc5vQEBips), by TA Sidharth Suresh (youtube, 13min tutorial)
 
 
