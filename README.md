@@ -22,6 +22,12 @@ Helpful Resources for COGS 108 Students
 	- [merge conflicts and branching (Part 2)](https://youtu.be/Nk1gtrbTZ2Y), by IA Shubham Kulkarni (youtube, 8min tutorial)
 - [Using `git` with GitHub Desktop](https://youtu.be/zQc5vQEBips), by TA Sidharth Suresh (youtube, 13min tutorial)
 
+#### SQL Resources:
+- [PostgreSQL Exercises](https://pgexercises.com/)
+- [Mode Analytics](https://mode.com/sql-tutorial/)[^1] 
+
+
+[^1]: Note from Ben Yetton (guest lecturer; Wi21): it's got basic/intermediate/advanced. Ideally a job candidate would have completed the advanced level, and be comfortable with Med/Hard hackerrank/leetcode SQL problems.
 
 #### More Data Science in Python Resources:
 - [Kaggle's learn `pandas`]( https://www.kaggle.com/learn/pandas ) - for learning `pandas` (interactive programming)
