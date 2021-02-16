@@ -24,10 +24,10 @@ Helpful Resources for COGS 108 Students
 
 #### SQL Resources:
 - [PostgreSQL Exercises](https://pgexercises.com/)
-- [Mode Analytics](https://mode.com/sql-tutorial/)[^1] 
+- [Mode Analytics](https://mode.com/sql-tutorial/)* 
 
 
-[^1]: Note from Ben Yetton (guest lecturer; Wi21): it's got basic/intermediate/advanced. Ideally a job candidate would have completed the advanced level, and be comfortable with Med/Hard hackerrank/leetcode SQL problems.
+*Note from Ben Yetton (guest lecturer; Wi21): it's got basic/intermediate/advanced. Ideally a job candidate would have completed the advanced level, and be comfortable with Med/Hard hackerrank/leetcode SQL problems.
 
 #### More Data Science in Python Resources:
 - [Kaggle's learn `pandas`]( https://www.kaggle.com/learn/pandas ) - for learning `pandas` (interactive programming)
