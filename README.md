@@ -21,7 +21,9 @@ Helpful Resources for COGS 108 Students
 	- [Installing and using `git` (Part 1)](https://www.youtube.com/watch?v=ng4X6qF8XVY), by TA Ganesh (youtube, 22min tutorial)
 	- [merge conflicts and branching (Part 2)](https://youtu.be/Nk1gtrbTZ2Y), by IA Shubham Kulkarni (youtube, 8min tutorial)
 - [Using `git` with GitHub Desktop](https://youtu.be/zQc5vQEBips), by TA Sidharth Suresh (youtube, 13min tutorial)
-
+- [GIT & GITHUB TUTORIAL](https://www.youtube.com/watch?v=xuB1Id2Wxak), from edureka!
+	- with [notes](https://docs.google.com/document/d/1GAdkvn7lWzeLekvC343WNZC2rZGhQOfPOU2dMha9aws/edit) from TA Holly(Yueying Dong)
+	
 #### SQL Resources:
 - [PostgreSQL Exercises](https://pgexercises.com/)
 - [Mode Analytics](https://mode.com/sql-tutorial/)* 
@@ -35,3 +37,8 @@ Helpful Resources for COGS 108 Students
 - [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 - [Python for Data Analysis](http://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf)(book)
 - [Learning Pandas](https://tomaugspurger.github.io/modern-1-intro.html)
+
+#### Machine Learning Resources
+- [MIT's Intro to Deep Learning](http://introtodeeplearning.com/), course
+- [Mathematical Underpinnings](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN), video from Andrew Ng
+- [Keras & TensorFlow](https://www.youtube.com/watch?v=tPYj3fFJGjk), video
