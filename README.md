@@ -31,6 +31,9 @@ Helpful Resources for COGS 108 Students
 
 *Note from Ben Yetton (guest lecturer; Wi21): it's got basic/intermediate/advanced. Ideally a job candidate would have completed the advanced level, and be comfortable with Med/Hard hackerrank/leetcode SQL problems.
 
+#### Data Visualization
+- [Data to Viz](https://www.data-to-viz.com/) - help determining what visualization is appropriate; with code examples
+
 #### More Data Science in Python Resources:
 - [Kaggle's learn `pandas`]( https://www.kaggle.com/learn/pandas ) - for learning `pandas` (interactive programming)
 - [Python Data Science Handbook ](https://jakevdp.github.io/PythonDataScienceHandbook/ ) (book)
