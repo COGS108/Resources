@@ -45,3 +45,4 @@ Helpful Resources for COGS 108 Students
 - [MIT's Intro to Deep Learning](http://introtodeeplearning.com/), course
 - [Mathematical Underpinnings](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN), video from Andrew Ng
 - [Keras & TensorFlow](https://www.youtube.com/watch?v=tPYj3fFJGjk), video
+- [Resources in ML, DL, RL, and NLP](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
