@@ -26,10 +26,7 @@ Helpful Resources for COGS 108 Students
 	
 #### SQL Resources:
 - [PostgreSQL Exercises](https://pgexercises.com/)
-- [Mode Analytics](https://mode.com/sql-tutorial/)* 
-
-
-*Note from Ben Yetton (guest lecturer; Wi21): it's got basic/intermediate/advanced. Ideally a job candidate would have completed the advanced level, and be comfortable with Med/Hard hackerrank/leetcode SQL problems.
+- [Mode Analytics](https://mode.com/sql-tutorial/)
 
 #### Data Visualization
 - [Data to Viz](https://www.data-to-viz.com/) - help determining what visualization is appropriate; with code examples
@@ -40,6 +37,11 @@ Helpful Resources for COGS 108 Students
 - [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 - [Python for Data Analysis](http://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf)(book)
 - [Learning Pandas](https://tomaugspurger.github.io/modern-1-intro.html)
+
+#### NLP (Natural Language Processing)
+- [NLP in Python](https://www.youtube.com/watch?v=xvqsFTUsOmc) (youtube video)
+
+
 
 #### Machine Learning Resources
 - [MIT's Intro to Deep Learning](http://introtodeeplearning.com/), course
