@@ -23,7 +23,7 @@ Helpful Resources for COGS 108 Students
 - [Using `git` with GitHub Desktop](https://youtu.be/zQc5vQEBips), by TA Sidharth Suresh (youtube, 13min tutorial)
 - [GIT & GITHUB TUTORIAL](https://www.youtube.com/watch?v=xuB1Id2Wxak), from edureka!
 	- with [notes](https://docs.google.com/document/d/1GAdkvn7lWzeLekvC343WNZC2rZGhQOfPOU2dMha9aws/edit) from TA Holly(Yueying Dong)
-	- [Personal Access Token Tutorial](https://docs.google.com/document/d/1Sb6tQwUVBhzcmBGWw4UnhGlYcMDdyUy3gaRKcQzYur4/edit?usp=sharing) by IA Scott Yang
+	- [Personal Access Token Tutorial](https://docs.google.com/document/d/1Sb6tQwUVBhzcmBGWw4UnhGlYcMDdyUy3gaRKcQzYur4/edit?usp=sharing) by IA-ish(?) Scott Yang
 	
 #### SQL Resources:
 - [PostgreSQL Exercises](https://pgexercises.com/)
