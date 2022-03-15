@@ -24,7 +24,9 @@ Helpful Resources for COGS 108 Students
 - [GIT & GITHUB TUTORIAL](https://www.youtube.com/watch?v=xuB1Id2Wxak), from edureka!
 	- with [notes](https://docs.google.com/document/d/1GAdkvn7lWzeLekvC343WNZC2rZGhQOfPOU2dMha9aws/edit) from TA Holly(Yueying Dong)
 	- [Personal Access Token Tutorial](https://docs.google.com/document/d/1Sb6tQwUVBhzcmBGWw4UnhGlYcMDdyUy3gaRKcQzYur4/edit?usp=sharing) by IA-ish(?) Scott Yang
-	
+- Uh oh! My Jupyter notebook has loads of big images/plots and it is now too big to fit inside Github's file size limit.
+        - https://pypi.org/project/ipynbcompress/
+ 		
 #### SQL Resources:
 - [PostgreSQL Exercises](https://pgexercises.com/)
 - [Mode Analytics](https://mode.com/sql-tutorial/)
