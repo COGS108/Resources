@@ -22,10 +22,13 @@ Helpful Resources for COGS 108 Students
 	- [merge conflicts and branching (Part 2)](https://youtu.be/Nk1gtrbTZ2Y), by IA Shubham Kulkarni (youtube, 8min tutorial)
 - [Using `git` with GitHub Desktop](https://youtu.be/zQc5vQEBips), by TA Sidharth Suresh (youtube, 13min tutorial)
 - [GIT & GITHUB TUTORIAL](https://www.youtube.com/watch?v=xuB1Id2Wxak), from edureka!
-	- with [notes](https://docs.google.com/document/d/1GAdkvn7lWzeLekvC343WNZC2rZGhQOfPOU2dMha9aws/edit) from TA Holly(Yueying Dong)
-	- [Personal Access Token Tutorial](https://docs.google.com/document/d/1Sb6tQwUVBhzcmBGWw4UnhGlYcMDdyUy3gaRKcQzYur4/edit?usp=sharing) by IA-ish(?) Scott Yang
+	- with [notes](https://docs.google.com/document/d/1GAdkvn7lWzeLekvC343WNZC2rZGhQOfPOU2dMha9aws/edit) from TA Yueying Dong
+- [Personal Access Token Tutorial]([https://docs.google.com/document/d/1Sb6tQwUVBhzcmBGWw4UnhGlYcMDdyUy3gaRKcQzYur4/edit?usp=sharing](https://docs.google.com/document/d/1XkcwMUZiHz_jtQ0cOiKXOpko8TCMhXKqPbs_qiFg8hM/edit?tab=t.0)) by TA Scott Yang
 - Uh oh! My Jupyter notebook has loads of big images/plots and it is now too big to fit inside Github's file size limit.
         - https://pypi.org/project/ipynbcompress/
+- [Learn Git branching](https://learngitbranching.js.org/?locale=en_US)
+- [Coursera: Free Course](https://www.coursera.org/learn/introduction-git-github) - covers common Git usage patterns
+- [Katas for Git](https://github.com/eficode-academy/git-katas)
  		
 #### SQL Resources:
 - [PostgreSQL Exercises](https://pgexercises.com/)
