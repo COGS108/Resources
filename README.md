@@ -15,6 +15,7 @@ Helpful Resources for COGS 108 Students
 #### Version Control (git and GitHub):
 - [Getting Started with git](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github)
 - [GitHub Guide](https://guides.github.com/activities/hello-world/)
+- [Voytek Lab - git primer](https://voyteklab.com/git/git-primer/)
 - [GitHub Desktop App Tutorial](https://github.com/jlord/git-it-electron)
 - [Git Command Line Resource](https://rogerdudler.github.io/git-guide/)
 -  Using `git` from the command line
