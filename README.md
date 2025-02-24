@@ -24,7 +24,7 @@ Helpful Resources for COGS 108 Students
 - [Using `git` with GitHub Desktop](https://youtu.be/zQc5vQEBips), by TA Sidharth Suresh (youtube, 13min tutorial)
 - [GIT & GITHUB TUTORIAL](https://www.youtube.com/watch?v=xuB1Id2Wxak), from edureka!
 	- with [notes](https://docs.google.com/document/d/1GAdkvn7lWzeLekvC343WNZC2rZGhQOfPOU2dMha9aws/edit) from TA Yueying Dong
-- [Personal Access Token Tutorial]([https://docs.google.com/document/d/1Sb6tQwUVBhzcmBGWw4UnhGlYcMDdyUy3gaRKcQzYur4/edit?usp=sharing](https://docs.google.com/document/d/1XkcwMUZiHz_jtQ0cOiKXOpko8TCMhXKqPbs_qiFg8hM/edit?tab=t.0)) by TA Scott Yang
+- [Personal Access Token Tutorial](https://docs.google.com/document/d/1XkcwMUZiHz_jtQ0cOiKXOpko8TCMhXKqPbs_qiFg8hM/edit?tab=t.0) by TA Scott Yang
 - Uh oh! My Jupyter notebook has loads of big images/plots and it is now too big to fit inside Github's file size limit.
         - https://pypi.org/project/ipynbcompress/
 - [Learn Git branching](https://learngitbranching.js.org/?locale=en_US)
