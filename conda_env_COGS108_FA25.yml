@@ -57,7 +57,7 @@ dependencies:
   - r-randomforest
   - r-rcurl
   - r-rmarkdown
-  - r-rodbc
+ # - r-rodbc # No ARM Mac support for this package right now
   - r-rsqlite
   - r-shiny
   - r-tidymodels
