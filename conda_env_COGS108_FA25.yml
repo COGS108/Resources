@@ -63,7 +63,7 @@ dependencies:
   - r-tidymodels
   - r-tidyverse
   - rpy2
-  - unixodbc
+  # - unixodbc # No Windows support for this package right now
   - pillow
   - typing-extensions
   - tzlocal
