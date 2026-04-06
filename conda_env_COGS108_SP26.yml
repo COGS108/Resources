@@ -57,13 +57,13 @@ dependencies:
   - r-randomforest
   - r-rcurl
   - r-rmarkdown
-  - r-rodbc
+#  - r-rodbc
   - r-rsqlite
   - r-shiny
   - r-tidymodels
   - r-tidyverse
   - rpy2
-  - unixodbc
+ # - unixodbc
   - pillow
   - typing-extensions
   - tzlocal
