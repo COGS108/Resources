@@ -1,4 +1,4 @@
-name: COGS108_FA25
+name: base
 channels:
   - conda-forge
 dependencies:
@@ -57,13 +57,13 @@ dependencies:
   - r-randomforest
   - r-rcurl
   - r-rmarkdown
- # - r-rodbc # No ARM Mac support for this package right now
+  - r-rodbc
   - r-rsqlite
   - r-shiny
   - r-tidymodels
   - r-tidyverse
   - rpy2
-  # - unixodbc # No Windows support for this package right now
+  - unixodbc
   - pillow
   - typing-extensions
   - tzlocal
@@ -91,4 +91,4 @@ dependencies:
   - r-git2r
   - r-crosstalk
   - r-dt
-
+prefix: /opt/conda
