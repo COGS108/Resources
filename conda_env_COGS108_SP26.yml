@@ -1,4 +1,4 @@
-name: base
+name: COGS108_Sp26
 channels:
   - conda-forge
 dependencies:
