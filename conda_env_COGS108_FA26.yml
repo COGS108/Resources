@@ -1,4 +1,4 @@
-name: COGS108_Sp26
+name: COGS108_FA26
 channels:
   - conda-forge
 dependencies:
@@ -21,10 +21,12 @@ dependencies:
   - cython
   - dask
   - dill
+  - geopandas
   - h5py
   - ipympl
   - ipywidgets
   - jupyterlab-git
+  - libpysal
   - matplotlib-base
   - numba
   - numexpr
@@ -91,4 +93,3 @@ dependencies:
   - r-git2r
   - r-crosstalk
   - r-dt
-prefix: /opt/conda
