@@ -78,6 +78,7 @@ Reading about Python isn't the same as writing it. These give you problems to so
 - [Learn Git Branching](https://learngitbranching.js.org/) — interactive visual sandbox; the clearest way to build a mental model of branches and merges. *(interactive)*
 - [GitHub Desktop docs](https://docs.github.com/en/desktop) — official docs for the point-and-click app, if you'd rather avoid the command line. *(docs)*
 - [Managing personal access tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) — GitHub no longer accepts your password over HTTPS; this is how you generate the token you use instead. *(docs)*
+- [COGS 108 GitHub Cheat Sheet](https://docs.google.com/document/d/1mgjHQWkQaSQcdGSZHYKYUU9z8dMI1268V9zzNMcxO5k/edit?tab=t.0) - summary of content discussed in lecture
 
 ### Video walkthroughs from COGS 108 staff
 
